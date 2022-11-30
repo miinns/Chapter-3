@@ -7,7 +7,7 @@ class Assignment
         int i;
         float f;
         double d;
-        s = 526; // 맨 우측에서 좌로 할당
+        s = 526; // 맨 우측에서 좌로 할
         d = f = i = s;
         Console.WriteLine("s = " + s + " i = " + i);
         Console.WriteLine("f = " + f + " d = " + d);
